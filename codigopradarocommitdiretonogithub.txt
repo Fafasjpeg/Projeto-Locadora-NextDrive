@@ -1,3 +1,5 @@
+Tutorial de como fazer o commit da alteração do arquivo pelo terminal do Vscode(pode ser pelo próprio codespace do github)
+
 git add .   
     - adiciona as alterações dos codigos
 
