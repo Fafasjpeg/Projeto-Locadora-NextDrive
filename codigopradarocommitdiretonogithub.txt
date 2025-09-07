@@ -1,0 +1,11 @@
+git add .   
+    - adiciona as alterações dos codigos
+
+git commit -m "mensagem do commit"   
+    - armazena essas alterações no commit e da Nome
+
+git branch -M main   
+    - faz o branch
+
+git push -u origin main     
+    - faz o push ja ta salvo la no github
